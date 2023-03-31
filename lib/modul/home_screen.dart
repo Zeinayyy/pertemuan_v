@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import '../../models/user.dart';
 import 'home_screen_widget.dart';
 
+//fixed pixel overflow
+
 class HomeScreen extends StatefulWidget {
   const HomeScreen({
     super.key,
